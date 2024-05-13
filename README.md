@@ -2,7 +2,7 @@
 
 **Star Blazers** is a object-oriented 2D game built from scratch using **Java** and **Swing**. This project demonstrates core software engineering principles including Game Loop architecture, Entity-Component design patterns, and efficient resource management.
 
-![Game Banner](2bg.gif)
+![Game Banner](Trailer.gif)
 
 ## Technical Architecture
 
